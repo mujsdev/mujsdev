@@ -1,4 +1,4 @@
-Hi 👋 My name is Muj
+Yo 👋 The name's Muj
 ====================
 
 Design Engineer
@@ -6,12 +6,11 @@ Design Engineer
 
 Started out as a left brainer coding in Java and MySQL during the early days of high school. Later found my passion making designs come to life with the power of front-end development. Love creating maintainable and scalable code.
 
-* 🌍  I'm based in Dubai
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/mujs.dev)
+* 🇦🇪  I'm based in Dubai
 * ✉️  You can contact me at [mujtmurt@gmail.com](mailto:mujtmurt@gmail.com)
 * 🧠  I'm learning anything animation related using GSAP or other tools
 * 🤝  I'm open to collaborating on slick open source projects for front-end devs
-* ⚡  Gamer and I love being a completionist. Currently own 45 platinums on my PSN account lol
+* 🎮  Gamer and I love being a completionist. Currently own 45 platinums on my PSN account lol
 
 <a href="https://www.github.com/mujsdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
@@ -46,7 +45,5 @@ src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-b
 <a href="http://www.github.com/mujsdev"><img src="https://github-readme-stats.vercel.app/api?username=mujsdev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="mujsdev's GitHub stats" /></a>
 
 <a href="http://www.github.com/mujsdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujsdev&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mujsdev"><img src="https://activity-graph.herokuapp.com/graph?username=mujsdev&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mujsdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujsdev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
