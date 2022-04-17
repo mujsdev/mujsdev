@@ -1,4 +1,4 @@
-Yo 👋 The name's Muj
+Hey hey 👋 I'm Muj
 ====================
 
 Design Engineer
