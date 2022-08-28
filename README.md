@@ -47,7 +47,3 @@ src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-b
 <a href="http://www.github.com/mujsdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujsdev&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/mujsdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujsdev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mujsdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
