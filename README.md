@@ -1,7 +1,7 @@
 Hey hey 👋 I'm Muj
 ====================
 
-UX Engineer
+Sr. UX Engineer
 ---------------
 
 Started out as a left brainer coding in Java and MySQL during the early days of high school. Later found my passion making designs come to life with the power of front-end development. Love creating maintainable and scalable code.
