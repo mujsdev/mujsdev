@@ -10,7 +10,7 @@ Started out as a left brainer coding in Java and MySQL during the early days of 
 * ✉️  You can contact me at [mujtmurt@gmail.com](mailto:mujtmurt@gmail.com)
 * 🧠  I'm learning anything animation related using GSAP or other tools
 * 🤝  I'm open to collaborating on slick open source projects for front-end devs
-* 🎮  Gamer and I love being a completionist. Currently own 45 platinums on my PSN account lol
+* 🎮  Gamer and I love being a completionist. Currently own 56 platinums on my PSN account lol
 
 <a href="https://www.github.com/mujsdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
