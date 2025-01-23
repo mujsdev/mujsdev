@@ -1,25 +1,35 @@
-Hey hey 👋 I'm Muj
-====================
+<h1 align="center">👋 It's a me, Mujtaba</h1>
+<h3 align="center">I love design and engineering. I can't pick either so I'm pretty indecisive.</h3>
+<p align="center">I'm a Product Designer and UX Engineer</p>
 
-Sr. UX Engineer
----------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujsdev&label=Profile%20views&color=0e75b6&style=flat" alt="mujsdev" /> </p>
 
-Sr. UX Engineer, 4 years of experience delivering innovative designs & development for business growth. Passion for crafting pixel-perfect interfaces, design thinking, and agile methodologies. A unicorn designer/developer, thrives in fast-paced environments, delivers value to organizations.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujsdev" alt="mujsdev" /></a> </p>
 
-<a href="https://www.github.com/mujsdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+- 🌱 I’m currently learning **three.js**
 
+- 👯 I’m looking to collaborate on **anything that enables me to exercise my design and engineering powers but also learn from one another**
 
-### Socials
+- 🤝 I’m looking for help with **anything new out there we can geek out on**
 
-<p align="left"> <a href="https://www.behance.com/its_muj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/mujsdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/mujsdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mujs.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mujsdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mujs_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 📫 How to reach me **mujtmurt@gmail.com**
 
-### Badges
+- ⚡ Fun fact **I like doing stand up comedy while sitting down**
 
-<b>My GitHub Stats</b>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mujsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujsdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mujsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujsdev" height="30" width="40" /></a>
+<a href="https://instagram.com/mujs.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujs.dev" height="30" width="40" /></a>
+<a href="https://www.behance.net/its_muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="its_muj" height="30" width="40" /></a>
+<a href="https://medium.com/@mujs.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujs.dev" height="30" width="40" /></a>
+</p>
 
-<a href="http://www.github.com/mujsdev"><img src="https://github-readme-stats.vercel.app/api?username=mujsdev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="mujsdev's GitHub stats" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="http://www.github.com/mujsdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujsdev&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujsdev&show_icons=true&locale=en&layout=compact" alt="mujsdev" /></p>
 
-<a href="https://github.com/mujsdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujsdev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujsdev&show_icons=true&locale=en" alt="mujsdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujsdev&" alt="mujsdev" /></p>
